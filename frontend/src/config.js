@@ -1,6 +1,6 @@
 // src/config.js
-export const CONTRACT_ADDRESS = "0x71C95911E9a5D330f4D621842EC243EE1343292e"; // Replace with your deployed contract address
-export const TOKEN_ADDRESS = "0x8464135c8F25Da09e49BC8782676a84730C318bC"; // Replace with your token contract address
+export const CONTRACT_ADDRESS = "<YOUR_CONTRACT_ADDRESS>"; // Replace with your deployed contract address
+export const TOKEN_ADDRESS = "<YOUR_TOKEN_ADDRESS"; // Replace with your token contract address
 
 // Faucet ABI - Update this with your actual Faucet contract ABI
 export const FAUCET_ABI = [
