@@ -1,6 +1,6 @@
-# 🚰 Ethereum Faucet dApp
+# 🚰 MyToken Faucet dApp
 
-A decentralized faucet application that allows users to request test tokens on a blockchain network. The faucet is secured with rate limiting and includes an admin interface for vault management.
+A decentralized faucet application that allows users to request customm made ERC20 test tokens on a blockchain network. The faucet is secured with rate limiting and includes an admin interface for vault management.
 
 ## 🌟 Features
 
