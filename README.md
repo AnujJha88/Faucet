@@ -66,6 +66,7 @@ A decentralized faucet application that allows users to request customm made ERC
    ### BEWARE THIS IS ONLY A TOY PROJECT! DO NOT PASTE PRIVATE KEYS INTO YOUR TERMINAL IN A PRODUCTION ENVIRONMENT!
 
 5. **Update contract addresses**
+
    Update the contract addresses in `frontend/src/config.js` with the deployed contract addresses.
 
 6. **Start the development server**
